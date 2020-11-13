@@ -12,3 +12,4 @@ RUN yarn test
 RUN yarn build
 
 CMD yarn start
+ 
